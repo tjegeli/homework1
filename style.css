@@ -51,13 +51,13 @@ p {
 }
 
 .hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("/Img/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    min-width: 1300px;
+    max-height: 600px; 
+    margin-bottom: 10px; 
+    background-size: 100px;
+    background-position:left;
 }
+
 
 .float-left {
     float: left;
